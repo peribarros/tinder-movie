@@ -3,7 +3,8 @@
 
 O **Tinder Movie** é uma aplicação web moderna de descoberta de filmes que utiliza uma interface no estilo "swipe" (arrastar para os lados) para ajudar usuários a encontrarem e salvarem os filmes que desejam assistir. Chega de passar horas rodando o catálogo das plataformas de streaming sem saber o que escolher!
 
-![Tinder Movie Preview](public/logo.png)
+![Uploading screenshoteasy (84).png…]()
+
 
 ## ✨ Funcionalidades Principais
 
