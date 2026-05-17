@@ -3,7 +3,9 @@
 
 O **Tinder Movie** é uma aplicação web moderna de descoberta de filmes que utiliza uma interface no estilo "swipe" (arrastar para os lados) para ajudar usuários a encontrarem e salvarem os filmes que desejam assistir. Chega de passar horas rodando o catálogo das plataformas de streaming sem saber o que escolher!
 
-https://github.com/peribarros/tinder-movie/blob/main/tinder-movie.png
+<p align="center">
+  <img src="tinder-movie.png" alt="Logo do Tinder Movie">
+</p>
 
 ## ✨ Funcionalidades Principais
 
